@@ -83,6 +83,9 @@ Please feel free to contact us if you have any related references by Github issu
 | Code Completion                                  | [CCTEST: Testing and Repairing Code Completion Systems](https://ieeexplore.ieee.org/abstract/document/10172845) | 2023 | ICSE        |
 | Code Completion                                  | [An Empirical Study on the Usage of BERT Models for Code Completion](https://ieeexplore.ieee.org/abstract/document/9463129) | 2021 | MSR         |
 | Code Completion                                  | [Learning Deep Semantics for Test Completion](https://arxiv.org/abs/2302.10166) | 2023 | arXiv       |
+| Program Synthesis                                | [Jigsaw: Large language models meet program synthesis](https://dl.acm.org/doi/abs/10.1145/3510003.3510203) | 2022 | ICSE        |
+| Program Synthesis                                | [Fully Autonomous Programming with Large Language Models](https://arxiv.org/abs/2304.10423) | 2023 | arXiv       |
+| Code Edits Prediction                            | [GrACE: Generation using Associated Code Edits](https://arxiv.org/abs/2305.14129) | 2023 | arXiv       |
 | Fault Localization                               | [Fast changeset-based bug localization with BERT](https://dl.acm.org/doi/abs/10.1145/3510003.3510042) | 2022 | ICSE        |
 | Fault Localization                               | [Enhancing Bug Localization Using Phase-Based Approach](https://ieeexplore.ieee.org/abstract/document/10097736) | 2023 | arXiv       |
 | Fault Localization                               | [Large Language Models in Fault Localisation (arxiv.org)](https://arxiv.org/abs/2308.15276) | 2023 | arXiv       |
@@ -97,12 +100,12 @@ Please feel free to contact us if you have any related references by Github issu
 | Vulnerability Detection                          | [Prompt-Enhanced Software Vulnerability Detection Using ChatGPT](https://arxiv.org/abs/2308.12697) | 2023 | arXiv       |
 | Vulnerability Detection                          | [Detection of Software Security Weaknesses Using Cross-Language Source Code Representation (CLaSCoRe)](https://www.mdpi.com/2076-3417/13/13/7871) | 2023 | -           |
 | Vulnerability Detection                          | [ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel Patching](https://arxiv.org/abs/2308.13062) | 2023 | arXiv       |
-| Test generation                                  | [Generating Accurate Assert Statements for Unit Test Cases using Pretrained Transformers](https://dl.acm.org/doi/abs/10.1145/3524481.3527220) | 2022 | AST         |
-| Test generation                                  | [An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation](https://arxiv.org/abs/2302.06527) | 2023 | arXiv       |
-| Test generation                                  | [ChatUniTest: a ChatGPT-based automated unit test generation tool](https://arxiv.org/abs/2305.04764) | 2023 | arXiv       |
-| Test generation                                  | [TOGA: A Neural Method for Test Oracle Generation](https://dl.acm.org/doi/abs/10.1145/3510003.3510141) | 2022 | ICSE        |
-| Test generation                                  | [Unit Test Case Generation with Transformers and Focal Context](https://arxiv.org/abs/2009.05617) | 2020 | arXiv       |
-| Test generation                                  | [CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models](https://ieeexplore.ieee.org/document/10172800) | 2023 | ICSE        |
+| Test Generation                                  | [Generating Accurate Assert Statements for Unit Test Cases using Pretrained Transformers](https://dl.acm.org/doi/abs/10.1145/3524481.3527220) | 2022 | AST         |
+| Test Generation                                  | [An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation](https://arxiv.org/abs/2302.06527) | 2023 | arXiv       |
+| Test Generation                                  | [ChatUniTest: a ChatGPT-based automated unit test generation tool](https://arxiv.org/abs/2305.04764) | 2023 | arXiv       |
+| Test Generation                                  | [TOGA: A Neural Method for Test Oracle Generation](https://dl.acm.org/doi/abs/10.1145/3510003.3510141) | 2022 | ICSE        |
+| Test Generation                                  | [Unit Test Case Generation with Transformers and Focal Context](https://arxiv.org/abs/2009.05617) | 2020 | arXiv       |
+| Test Generation                                  | [CODAMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models](https://ieeexplore.ieee.org/document/10172800) | 2023 | ICSE        |
 | Test Minimization                                | [LTM: Scalable and Black-box Similarity-based Test Suite Minimization based on Language Models](https://arxiv.org/abs/2304.01397) | 2023 | arXiv       |
 | Fuzzing                                          | [SearchGEM5: Towards Reliable gem5 with Search Based Software Testing and Large Language Models](https://kclpure.kcl.ac.uk/portal/en/publications/searchgem5-towards-reliable-gem5-with-search-based-software-testi) | 2023 | SSBSE       |
 | Fuzzing                                          | [Augmenting Greybox Fuzzing with Generative AI](https://arxiv.org/abs/2306.06782) | 2023 | arXiv       |
@@ -111,6 +114,7 @@ Please feel free to contact us if you have any related references by Github issu
 | Fuzzing                                          | [Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models](https://dl.acm.org/doi/abs/10.1145/3597926.3598067) | 2023 | ISSTA       |
 | Fuzzing                                          | [Universal Fuzzing via Large Language Models](https://arxiv.org/abs/2308.04748) | 2023 | arXiv       |
 | Fuzzing                                          | [Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT](https://arxiv.org/abs/2304.02014) | 2023 | arXiv       |
+| Property-based Testing                           | [Can Large Language Models Write Good Property-Based Tests?](https://arxiv.org/abs/2307.04346) | 2023 | arXiv       |
 | Failure-Inducing Testing                         | [Nuances are the Key: Unlocking ChatGPT to Find Failure-Inducing Tests with Differential Prompting](https://arxiv.org/abs/2304.11686) | 2023 | arXiv       |
 | Penetration Testing                              | [Getting pwn'd by AI: Penetration Testing with Large Language Models](https://arxiv.org/abs/2308.00121) | 2023 | arXiv       |
 | Penetration Testing                              | [PentestGPT: An LLM-empowered Automatic Penetration Testing Tool](https://arxiv.org/abs/2308.06782) | 2023 | arXiv       |
@@ -125,8 +129,8 @@ Please feel free to contact us if you have any related references by Github issu
 | Code Review                                      | [Automating code review activities by large-scale pre-training](https://dl.acm.org/doi/abs/10.1145/3540250.3549081) | 2022 | FSE         |
 | Code Review                                      | [AUGER: automatically generating review comments with pre-training models](https://dl.acm.org/doi/abs/10.1145/3540250.3549099) | 2022 | FSE         |
 | Code Review                                      | [Using Pre-Trained Models to Boost Code Review Automation](https://dl.acm.org/doi/abs/10.1145/3510003.3510621) | 2022 | ICSE        |
-| Bug Report Detection                             | [Cupid: Leveraging ChatGPT for More Accurate Duplicate Bug Report Detection](https://arxiv.org/abs/2308.10022) | 2023 | arXiv       |
-| Bug Report Detection                             | [Can LLMs Demystify Bug Reports?](https://arxiv.org/abs/2310.06310) | 2023 | arXiv       |
+| Duplicate Bug Report Detection                   | [Cupid: Leveraging ChatGPT for More Accurate Duplicate Bug Report Detection](https://arxiv.org/abs/2308.10022) | 2023 | arXiv       |
+| Duplicate Bug Report Detection                   | [Can LLMs Demystify Bug Reports?](https://arxiv.org/abs/2310.06310) | 2023 | arXiv       |
 | Bug Reproduction                                 | [Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction](https://ieeexplore.ieee.org/abstract/document/10172763) | 2023 | ICSE        |
 | Program Repair                                   | [CURE Code-Aware Neural Machine Translation for Automatic Program Repair](https://ieeexplore.ieee.org/abstract/document/9401997) | 2021 | ICSE        |
 | Program Repair                                   | [DEAR A Novel Deep Learning-based Approach for Automated Program Repair](https://dl.acm.org/doi/abs/10.1145/3510003.3510177) | 2022 | ICSE        |
@@ -146,10 +150,12 @@ Please feel free to contact us if you have any related references by Github issu
 | Program Repair                                   | [Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors](https://arxiv.org/abs/2306.01394) | 2023 | arXiv       |
 | Vulnerability Repair                             | [VulRepair: A T5-Based Automated Software Vulnerability Repair](https://dl.acm.org/doi/abs/10.1145/3540250.3549098) | 2022 | FSE         |
 | Vulnerability Repair                             | [Examining Zero-Shot Vulnerability Repair with Large Language Models](https://ieeexplore.ieee.org/abstract/document/10179324) | 2023 | SP          |
+| Vulnerability Repair                             | [Can Large Language Models Find And Fix Vulnerable Software?](https://arxiv.org/abs/2308.10345) | 2023 | arXiv       |
 | Vulnerability Repair                             | [Pre-Trained Model-Based Automated Software Vulnerability Repair: How Far are We?](https://ieeexplore.ieee.org/abstract/document/10232867) | 2023 | TDSC        |
 | Patch Correctness Assessment                     | [Evaluating representation learning of code changes for predicting patch correctness in program repair](https://dl.acm.org/doi/abs/10.1145/3324884.3416532) | 2020 | ASE         |
 | Patch Correctness Assessment                     | [The Best of Both Worlds: Combining Learned Embeddings with Engineered Features for Accurate Prediction of Correct Patches](https://dl.acm.org/doi/full/10.1145/3576039) | 2023 | TOSEM       |
 | Patch Correctness Assessment                     | [Is this Change the Answer to that Problem? Correlating Descriptions of Bug and Code Changes for Evaluating Patch Correctness](https://dl.acm.org/doi/abs/10.1145/3551349.3556914) | 2022 | ASE         |
+| Bug Replay                                       | [Prompting Is All Your Need: Automated Android Bug Replay with Large Language Models](https://arxiv.org/abs/2306.01987) | 2023 | arXiv       |
 
 
 
