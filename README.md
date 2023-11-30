@@ -46,7 +46,7 @@ Please feel free to contact us if you have any related references by Github issu
 
 ------
 
-## Collected Papers
+## LLM4SE
 
 | Task                               | Paper Title                                                  | Year | Publisher   |
 | ---------------------------------- | ------------------------------------------------------------ | ---- | ----------- |
