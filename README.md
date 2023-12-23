@@ -1,6 +1,6 @@
 # Large Language Models for Software Engineering
 
-A collection of academic publications and methodologies on the classification of Code Large Language Models' pre-training tasks, downstream tasks, and **the application of Large Language Models in the field of Software Engineering.**
+A collection of academic publications and methodologies on the classification of Code Large Language Models' pre-training tasks, downstream tasks, and the application of **Large Language Models** in the field of **Software Engineering.**
 
 We welcome all researchers to contribute to this repository and further contribute to the knowledge of the Large Language Models with Software Engineering field.
 Please feel free to contact us if you have any related references by Github issue or pull request. 
