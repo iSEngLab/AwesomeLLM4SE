@@ -1,4 +1,8 @@
 # Large Language Models for Software Engineering
+>*Title*: [A Survey on Large Language Models for Software Engineering](https://arxiv.org/abs/2312.15223)
+>
+>*Authors*: [Quanjun Zhang](https://sites.google.com/view/quanjunzhang/), [Chunrong Fang](https://chunrong.github.io/), Yang Xie, Yaxin Zhang, [Yun Yang](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=yyang), [Weisong Sun](https://sites.google.com/view/wssun/), [Shengcheng Yu](https://www.seysc.com/), [Zhenyu Chen](https://scholar.google.com.au/citations?user=HQWxCnkAAAAJ&hl=zh-CN&oi=sra)
+
 
 A collection of academic publications and methodologies on the classification of Code Large Language Models' pre-training tasks, downstream tasks, and the application of **Large Language Models** in the field of **Software Engineering.**
 
