@@ -367,8 +367,6 @@ Automatic Detection of Five API Documentation Smells: Practitioners’ Perspecti
 
 #### Code Completion
 
-Here is the ordered list of the titles you provided:
-
 1. Towards Efficient Fine-tuning of Pre-trained Code Models: An Experimental Study and Beyond [2023-ISSTA]
 2. Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion [2024-ACL]
 3. An Empirical Study on the Usage of BERT Models for Code Completion [2021-MSR]
@@ -603,11 +601,9 @@ Here is the ordered list of the titles you provided:
 
 #### Continuous Development Optimization
 
-Optimizing Continuous Development By Detecting and Preventing Unnecessary Content Generation [2023-ASE]
+1. Optimizing Continuous Development By Detecting and Preventing Unnecessary Content Generation [2023-ASE]
 
 #### Data Augmentation
-
-Here is the ordered list of the titles you provided:
 
 1. A Transformer-based Approach for Augmenting Software Engineering Chatbots Datasets [2024-ESEM]
 2. PERFGEN: A Synthesis and Evaluation Framework for Performance Data using Generative AI [2024-COMPSAC]
@@ -824,7 +820,6 @@ ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generat
 
 1. Semantic-Enhanced Indirect Call Analysis with Large Language Models [2024-arXiv]
 
-
 #### Mutation Testing
 
 1. µBert- Mutation Testing using Pre-Trained Language Models [2022-ICST]  
@@ -853,11 +848,8 @@ ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generat
 #### Penetration Testing
 
 1. PentestGPT: An LLM-empowered Automatic Penetration Testing Tool [2024-USENIX Security]
-
 2. Getting pwn'd by AI: Penetration Testing with Large Language Models [2023-FSE]
-
 3. CIPHER: Cybersecurity Intelligent Penetration-testing Helper for Ethical Researcher [2024-arXiv]
-
 4. PTGroup: An Automated Penetration Testing Framework Using LLMs and Multiple Prompt Chains [2024-ICIC]
 
 
@@ -865,21 +857,17 @@ ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generat
 
 1. CFStra: Enhancing Configurable Program Analysis Through LLM-Driven Strategy Selection Based on Code Features [2024-TASE]
 
-
 #### Program Reduction
 
 1. LPR: Large Language Models-Aided Program Reduction [2024-ISSTA]
-
 
 #### Property-based Testing 
 
 1. Can Large Language Models Write Good Property-Based Tests? [2023-arXiv]
 
-
 #### Simulation Testing
 
 1. DiaVio: LLM-Empowered Diagnosis of Safety Violations in ADS Simulation Testing [2024-ISSTA]
-
 
 #### Static Analysis
 
@@ -893,9 +881,7 @@ ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generat
 #### Static Warning Validating
 
 1. Automatically Inspecting Thousands of Static Bug Warnings with Large Language Model: How Far Are We? [2024-TOSEM]
-
 2. Analyzing source code vulnerabilities in the D2A dataset with ML ensembles and C-BERT [2024-EMSE]
-
 
 #### Test Generation
 
@@ -949,7 +935,6 @@ ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generat
 #### Test Suite Minimization
 
 1. LTM: Scalable and Black-box Similarity-based Test Suite Minimization based on Language Models [2023-arXiv]
-
 
 #### Vulnerability Detection
 
@@ -1034,11 +1019,9 @@ ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generat
 
 1. Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation [2023-ICSE]
 
-
 #### Theorem Proving
 
 1. LLM-Enhanced Theorem Proving with Term Explanation and Tactic Parameter Repair [2024-Internetware]
-
 
 ### 📱Software Maintenance
 
@@ -1180,43 +1163,24 @@ Flakify: a black-box, language model-based predictor for flaky tests [2022-TSE]
 #### Log Analysis
 
 1. GLOSS: Guiding Large Language Models to Answer Questions from System Logs [2024-SANER]
-
 2. ULog: Unsupervised Log Parsing with Large Language Models through Log Contrastive Units [2024-arXiv]
-
 3. LILAC: Log Parsing using LLMs with Adaptive Parsing Cache [2024-FSE]
-
 4. Log Parsing with Prompt-based Few-shot Learning [2023-ICSE]
-
 5. Log Parsing: How Far Can ChatGPT Go? [2023-ASE]
-
 6. Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study [2023-arXiv]
-
 7. Interpretable Online Log Analysis Using Large Language Models with Prompt Strategies [2024-ICPC]
-
 8. LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis [2023-arXiv]
-
 9. KnowLog: Knowledge Enhanced Pre-trained Language Model for Log Understanding [2024-ICSE]
-
 10. LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing [2024-ICSE]
-
 11. Using deep learning to generate complete log statements [2022-ICSE]
-
 12. Log statements generation via deep learning: Widening the support provided to developers [2024-JSS]
-
 13. The Effectiveness of Compact Fine-Tuned LLMs for Log Parsing [2024-ICSME]
-
 14. An Assessment of ChatGPT on Log Data [2023-AIGC]
-
 15. LogStamp: Automatic Online Log Parsing Based on Sequence Labelling [2022-SIGMETRICS]
-
 16. Log Parsing with Self-Generated In-Context Learning and Self-Correction [2024-arXiv]
-
 17. Stronger, Faster, and Cheaper Log Parsing with LLMs [2024-arXiv]
-
 18. UniLog: Automatic Logging via LLM and In-Context Learning [2024-ICSE]
-
 19. Log Parsing with Generalization Ability under New Log Types [2023-FSE]
-
 20. A Comparative Study on Large Language Models for Log Parsing [2024-ESEM]
 
 
@@ -1386,7 +1350,6 @@ Flakify: a black-box, language model-based predictor for flaky tests [2022-TSE]
 #### Developers' Behavior Analysis
 
 1. Uncovering the Causes of Emotions in Software Developer Communication Using Zero-shot LLMs [2024-ICSE]
-
 
 #### Effort estimation
 
