@@ -195,7 +195,7 @@ Please feel free to contact us if you have any related references by Github issu
 17. AST-T5: AST-T5: Structure-Aware Pretraining for Code Generation and Understanding [2024-ICML] [GitHub](https://github.com/gonglinyuan/ast_t5)  
 18. GrammarT5: GrammarT5: Grammar-Integrated Pretrained Encoder-Decoder Neural Model for Code [2024-ICSE] [GitHub](https://github.com/pkuzqh/GrammarT5)  
 
-### Decoder-only
+### 🧩Decoder-only
 
 1. GPT-C: IntelliCode compose code generation using transformer [2020-FSE]  
 2. Codex: Evaluating large language models trained on code [2021-arXiv]  
