@@ -22,12 +22,15 @@ Please feel free to contact us if you have any related references by Github issu
 @article{zhang2023survey,
   title={A Survey on Large Language Models for Software Engineering},
   author={Zhang, Quanjun and Fang, Chunrong and Xie, Yang and Zhang, Yaxin and Yang, Yun and Sun, Weisong and Yu, Shengcheng and Chen, Zhenyu},
-  journal={arXiv preprint arXiv:2312.15223},
+  journal={arXiv preprint arXiv:2312.15223
+        
+        
+        
+        },
   year={2023}
 }
 ```
 
-[TOC]
 
 
 
@@ -66,75 +69,40 @@ Please feel free to contact us if you have any related references by Github issu
 ### Decoder-only
 
 1. GPT-C: IntelliCode compose code generation using transformer [2020-FSE]  
-
 2. Codex: Evaluating large language models trained on code [2021-arXiv]  
-
 3. CodeGPT: CodeXGLUE A Machine Learning Benchmark Dataset for Code Understanding and Generation [2021-NeurIPS] [GitHub](https://github.com/microsoft/CodeXGLUE)  
-
 4. PaLM-Coder: PaLM Scaling Language Modeling with Pathways [2022-JMLR]  
-
 5. PanGu-Coder: PanGu-Coder Program Synthesis with Function-Level Language Modeling [2022-arXiv]  
-
 6. PolyCoder: A Systematic Evaluation of Large Language Models of Code [2022-ICLR] [GitHub](https://github.com/VHellendoorn/Code-LMs)  
-
 7. PyCodeGPT: CERT Continual Pre-Training on Sketches for Library-Oriented Code Generation [2022-IJCAI] [GitHub](https://github.com/microsoft/pycodegpt)  
-
 8. BLOOM: BLOOM: A 176B-Parameter Open-Access Multilingual Language Model [2022-arXiv] [GitHub](https://huggingface.co/bigscience/bloom)  
-
 9. CodeShell: CodeShell Technical Report [2023-arXiv]  
-
 10. PanGu-Coder2: PanGu-Coder2: LLM with Reinforcement Learning [2023-arXiv]  
-
 11. Code Llama: Code llama: Open foundation models for code [2023-arXiv] [GitHub](https://github.com/facebookresearch/codellama)  
-
 12. CodeFuse: CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model [2023-ICSE] [GitHub](https://github.com/codefuse-ai)  
-
 13. CodeGen: CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis [2023-ICLR] [GitHub](https://github.com/salesforce/CodeGen)  
-
 14. CodeGen2: CodeGen2 Lessons for Training LLMs on Programming and Natural Languages [2023-ICLR] [GitHub](https://github.com/salesforce/CodeGen2)  
-
 15. InCoder: InCoder: A Generative Model for Code Infilling and Synthesis [2023-ICLR] [GitHub](https://sites.google.com/view/incoder-code-models)  
-
 16. SantaCoder: SantaCoder don’t reach for the stars! [2023-ICLR] [GitHub](https://huggingface.co/bigcode/santacoder)  
-
 17. StarCoder: StarCoder may the source be with you [2023-TMLR] [GitHub](https://github.com/bigcode-project/starcoder)  
-
 18. CodeGeeX: CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X [2024-KDD] [GitHub](https://github.com/THUDM/CodeGeeX)  
-
 19. Lemur: Lemur: Harmonizing Natural Language and Code for Language Agents [2024-ICLR] [GitHub](https://github.com/OpenLemur/Lemur)  
-
 20. Magicoder: Magicoder: Empowering Code Generation with OSS-Instruct [2024-ICML] [GitHub](https://github.com/ise-uiuc/magicoder)  
-
 21. OctoCoder: Octopack: Instruction tuning code large language models [2024-ICLR] [GitHub](https://huggingface.co/bigcode/octocoder)  
-
 22. WizardCoder: WizardCoder: Empowering Code Large Language Models with Evol-Instruct [2024-ICLR] [GitHub](https://github.com/nlpxucan/WizardLM)  
-
 23. AlchemistCoder: AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data [2024-arXiv] [GitHub](https://github.com/InternLM/AlchemistCoder)  
-
 24. AutoCoder: AutoCoder: Enhancing Code Large Language Model with AIEV-Instruct [2024-arXiv] [GitHub](https://github.com/bin123apple/AutoCoder)  
-
 25. CodeGemma: CodeGemma: Open Code Models Based on Gemma [2024-arXiv] [GitHub](https://huggingface.co/blog/codegemma)  
-
 26. DeepSeek-Coder: DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence [2024-arXiv] [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder)  
-
 27. DeepSeek-Coder-V2: DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence [2024-arXiv] [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder-V2)  
-
 28. DolphCoder: DolphCoder: Echo-Locating Code Large Language Models with Diverse and Multi-Objective Instruction Tuning [2024-ACL] [GitHub](https://github.com/pris-nlp/DolphCoder)  
-
 29. Granite: Granite Code Models: A Family of Open Foundation Models for Code Intelligence [2024-arXiv] [GitHub](https://github.com/ibm-granite/granite-code-models)  
-
 30. InverseCoder: InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with Inverse-Instruct [2024-arXiv] [GitHub](https://github.com/wyt2000/InverseCoder)  
-
 31. NT-Java: Narrow Transformer: Starcoder-Based Java-LM For Desktop [2024-arXiv] [GitHub](https://huggingface.co/infosys/NT-Java-1.1B)  
-
 32. StarCoder2: StarCoder 2 and The Stack v2: The Next Generation [2024-arXiv] [GitHub](https://github.com/bigcode-project/starcoder2)  
-
 33. StepCoder: [2024-ACL] [GitHub](https://github.com/Ablustrund/APPS_Plus)  
-
 34. UniCoder: UniCoder: Scaling Code Large Language Model via Universal Code [2024-ACL] [GitHub](https://github.com/microsoft/Unicoder)  
-
 35. WaveCoder: WaveCoder: Widespread And Versatile Enhanced Code LLM [2024-ACL] [GitHub](https://github.com/microsoft/WaveCoder)  
-
 36. XFT: XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts [2024-ACL] [GitHub](https://github.com/ise-uiuc/xft)  
 
     
