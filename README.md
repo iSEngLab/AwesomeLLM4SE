@@ -1,6 +1,6 @@
 <h1 align = "center">Large Language Models for Software Engineering</h1>
 <p align="center">
-  <a href="https://arxiv.org/abs/2312.15223"><img src="https://img.shields.io/badge/arXiv-2405.01466-blue.svg"></a>
+  <a href="https://arxiv.org/abs/2312.15223"><img src="https://img.shields.io/badge/arXiv-2312.15223-blue.svg"></a>
   <img src="https://img.shields.io/github/stars/iSEngLab/AwesomeLLM4SE?color=yellow&label=Stars">
 </p>
 <p align="center">
@@ -30,11 +30,11 @@ Please feel free to contact us if you have any related references by Github issu
 ## 📖 Contents
 - [👏 Citation](#-citation)
 - [📖 Contents](#-contents)
-- [🤖RQ1](#rq1)
+- [🤖LLMs of Code](#rq1)
   - [Encoder-only](#encoder-only)
   - [Encoder-Decoder](#encoder-decoder)
   - [Decoder-only](#decoder-only)
-- [💻RQ2](#rq2)
+- [💻SE with LLMs](#rq2)
   - [📋Software Requirements \& Design](#software-requirements--design)
     - [Ambiguity detection](#ambiguity-detection)
     - [Class Diagram Derivation](#class-diagram-derivation)
@@ -154,7 +154,7 @@ Please feel free to contact us if you have any related references by Github issu
     - [Effort estimation](#effort-estimation)
     - [Software Repository Mining](#software-repository-mining)
     - [Software tool configuration](#software-tool-configuration)
-- [🧩RQ3](#rq3)
+- [🧩Integration](#rq3)
   - [📊Benchmark](#benchmark)
   - [🗜️Compressing\&Distillation](#️compressingdistillation)
   - [📚Education](#education)
@@ -163,7 +163,7 @@ Please feel free to contact us if you have any related references by Github issu
 
 
 
-## 🤖RQ1
+## 🤖LLMs of Code
 
 ### 🔢Encoder-only
 
@@ -236,7 +236,7 @@ Please feel free to contact us if you have any related references by Github issu
 
     
 
-## 💻RQ2
+## 💻SE with LLMs
 
 ### 📋Software Requirements \& Design
 
@@ -1368,7 +1368,7 @@ Flakify: a black-box, language model-based predictor for flaky tests [2022-TSE]
 
 
 
-## 🧩RQ3
+## 🧩Integration
 
 ### 📊Benchmark
 
