@@ -3,15 +3,12 @@
   <a href="https://arxiv.org/abs/2312.15223"><img src="https://img.shields.io/badge/arXiv-2312.15223-blue.svg"></a>
   <img src="https://img.shields.io/github/stars/iSEngLab/AwesomeLLM4SE?color=yellow&label=Stars">
 </p>
-<p align="center">
-  <a href="https://github.com/iSEngLab/AwesomeLLM4SE">View on GitHub</a>
-</p>
 
 >*Title*: [A Survey on Large Language Models for Software Engineering](https://arxiv.org/abs/2312.15223)
 >
 >*Authors*: [Quanjun Zhang](https://sites.google.com/view/quanjunzhang/), [Chunrong Fang](https://chunrong.github.io/), Yang Xie, Yaxin Zhang, [Yun Yang](https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=yyang), [Weisong Sun](https://sites.google.com/view/wssun/), [Shengcheng Yu](https://www.seysc.com/), [Zhenyu Chen](https://scholar.google.com.au/citations?user=HQWxCnkAAAAJ&hl=zh-CN&oi=sra)
 
-A collection of academic publications and methodologies on the classification of Code Large Language Models' pre-training tasks, downstream tasks, and the application of **Large Language Models** in the field of **Software Engineering.**
+A collection of academic publications and methodologies on the classification of Code Large Language Models' pre-training tasks, downstream tasks, and the application of **Large Language Models** in the field of **Software Engineering** (LLM4SE).
 
 We welcome all researchers to contribute to this repository and further contribute to the knowledge of the Large Language Models with Software Engineering field.
 Please feel free to contact us if you have any related references by Github issue or pull request. 
