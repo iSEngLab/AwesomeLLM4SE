@@ -22,9 +22,7 @@ Please feel free to contact us if you have any related references by Github issu
 @article{zhang2023survey,
   title={A Survey on Large Language Models for Software Engineering},
   author={Zhang, Quanjun and Fang, Chunrong and Xie, Yang and Zhang, Yaxin and Yang, Yun and Sun, Weisong and Yu, Shengcheng and Chen, Zhenyu},
-  journal={arXiv preprint arXiv:2312.15223
-        
-        },
+  journal={arXiv preprint arXiv:2312.15223},
   year={2023}
 }
 ```
@@ -33,8 +31,8 @@ Please feel free to contact us if you have any related references by Github issu
 - [👏 Citation](#-citation)
 - [📖 Contents](#-contents)
 - [🤖RQ1](#rq1)
-  - [🔢Encoder-only](#encoder-only)
-  - [🔀Encoder-Decoder](#encoder-decoder)
+  - [Encoder-only](#encoder-only)
+  - [Encoder-Decoder](#encoder-decoder)
   - [Decoder-only](#decoder-only)
 - [💻RQ2](#rq2)
   - [📋Software Requirements \& Design](#software-requirements--design)
