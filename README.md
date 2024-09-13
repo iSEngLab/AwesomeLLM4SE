@@ -24,8 +24,6 @@ Please feel free to contact us if you have any related references by Github issu
 }
 ```
 ## 🔥🔥 New Papers
-以下是您提供的论文标题，按照有序列表的格式排列：
-
 1. LLMs in Web Development: Evaluating LLM-Generated PHP Code Unveiling[2024-SAFECOMP]
 2. Multi-Programming Language Ensemble for Code Generation in Large Language Mode[2024-arXiv]
 3. Planning In Natural Language Improves LLM Search For Code Generation[2024-arXiv]
