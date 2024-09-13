@@ -23,6 +23,32 @@ Please feel free to contact us if you have any related references by Github issu
   year={2023}
 }
 ```
+## 🔥🔥 New Papers
+以下是您提供的论文标题，按照有序列表的格式排列：
+
+1. LLMs in Web Development: Evaluating LLM-Generated PHP Code Unveiling[2024-SAFECOMP]
+2. Multi-Programming Language Ensemble for Code Generation in Large Language Mode[2024-arXiv]
+3. Planning In Natural Language Improves LLM Search For Code Generation[2024-arXiv]
+4. Large language model evaluation for high‐performance computing software development[2024-CCPE]
+5. STREAM: Embodied Reasoning through Code Generation[2024-ICML]
+6. Environment Curriculum Generation via Large Language Models[2024-CoRL]
+7. Evaluation Metrics in LLM Code Generation[2024-TSD]
+8. Benchmarking LLM Code Generation for Audio Programming with Visual Dataflow Languages[2024-arXiv]
+9. An Empirical Study on Self-correcting Large Language Models for Data Science Code Generation[2024-arXiv]
+10. NL2ProcessOps: Towards LLM-Guided Code Generation for Process Execution[2024-arXiv]
+11. Balancing Security and Correctness in Code Generation: An Empirical Study on Commercial Large Language Models[2024-IEEE TETCI]
+12. FuzzCoder: Byte-level Fuzzing Test via Large Language Model[2024-arXiv]
+13. Statically Contextualizing Large Language Models with Typed Holes[2024-arXiv]
+14. ProphetFuzz: Fully Automated Prediction and Fuzzing of High-Risk Option Combinations with Only Documentation via Large Language Model[2024-arXiv]
+15. Agent-DocEdit: Language-Instructed LLM Agent for Content-Rich Document Editing[2024-COLM]
+16. CodeGraph: Enhancing Graph Reasoning of LLMs with Code[2024-arXiv]
+17. Insights from Benchmarking Frontier Language Models on Web App Code Generation[2024-arXiv]
+18. GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding[2024-arXiv]
+19. DataSculpt: Crafting Data Landscapes for LLM Post-Training through Multi-objective Partitioning[2024-arXiv]
+20. Co-Learning: Code Learning for Multi-Agent Reinforcement Collaborative Framework with Conversational Natural Language Interfaces[2024-arXiv]
+21. Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs[2024-arXiv]
+22. Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model[2024-arXiv]
+
 
 ## 📖 Contents
 - [👏 Citation](#-citation)
