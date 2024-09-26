@@ -19,19 +19,25 @@ Please feel free to contact us if you have any related references by Github issu
 @article{zhang2023survey,
   title={A Survey on Large Language Models for Software Engineering},
   author={Zhang, Quanjun and Fang, Chunrong and Xie, Yang and Zhang, Yaxin and Yang, Yun and Sun, Weisong and Yu, Shengcheng and Chen, Zhenyu},
-  journal={arXiv preprint arXiv:2312.15223},
+  journal={arXiv preprint arXiv:2312.15223
+        
+        
+        
+        
+        
+        },
   year={2023}
 }
 ```
 ## 🔥🔥 New Papers
-
-1. Statically Contextualizing Large Language Models with Typed Holes[2024-arXiv]
-2. Agent-DocEdit: Language-Instructed LLM Agent for Content-Rich Document Editing[2024-COLM]
-3. CodeGraph: Enhancing Graph Reasoning of LLMs with Code[2024-arXiv]
-4. DataSculpt: Crafting Data Landscapes for LLM Post-Training through Multi-objective Partitioning[2024-arXiv]
-5. Co-Learning: Code Learning for Multi-Agent Reinforcement Collaborative Framework with Conversational Natural Language Interfaces[2024-arXiv]
-6. Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs[2024-arXiv]
-7. Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model[2024-arXiv]
+1. Automated Program Repair for Introductory Programming Assignments[2024-TLT] 
+2. Statically Contextualizing Large Language Models with Typed Holes[2024-arXiv]
+3. Agent-DocEdit: Language-Instructed LLM Agent for Content-Rich Document Editing[2024-COLM]
+4. CodeGraph: Enhancing Graph Reasoning of LLMs with Code[2024-arXiv]
+5. DataSculpt: Crafting Data Landscapes for LLM Post-Training through Multi-objective Partitioning[2024-arXiv]
+6. Co-Learning: Code Learning for Multi-Agent Reinforcement Collaborative Framework with Conversational Natural Language Interfaces[2024-arXiv]
+7. Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs[2024-arXiv]
+8. Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model[2024-arXiv]
 
 
 ## 📖 Contents
