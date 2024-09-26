@@ -19,33 +19,23 @@ Please feel free to contact us if you have any related references by Github issu
 @article{zhang2023survey,
   title={A Survey on Large Language Models for Software Engineering},
   author={Zhang, Quanjun and Fang, Chunrong and Xie, Yang and Zhang, Yaxin and Yang, Yun and Sun, Weisong and Yu, Shengcheng and Chen, Zhenyu},
-  journal={arXiv preprint arXiv:2312.15223},
+  journal={arXiv preprint arXiv:2312.15223
+        
+        
+        
+        },
   year={2023}
 }
 ```
 ## 🔥🔥 New Papers
-1. LLMs in Web Development: Evaluating LLM-Generated PHP Code Unveiling[2024-SAFECOMP]
-2. Multi-Programming Language Ensemble for Code Generation in Large Language Mode[2024-arXiv]
-3. Planning In Natural Language Improves LLM Search For Code Generation[2024-arXiv]
-4. Large language model evaluation for high‐performance computing software development[2024-CCPE]
-5. STREAM: Embodied Reasoning through Code Generation[2024-ICML]
-6. Environment Curriculum Generation via Large Language Models[2024-CoRL]
-7. Evaluation Metrics in LLM Code Generation[2024-TSD]
-8. Benchmarking LLM Code Generation for Audio Programming with Visual Dataflow Languages[2024-arXiv]
-9. An Empirical Study on Self-correcting Large Language Models for Data Science Code Generation[2024-arXiv]
-10. NL2ProcessOps: Towards LLM-Guided Code Generation for Process Execution[2024-arXiv]
-11. Balancing Security and Correctness in Code Generation: An Empirical Study on Commercial Large Language Models[2024-IEEE TETCI]
-12. FuzzCoder: Byte-level Fuzzing Test via Large Language Model[2024-arXiv]
-13. Statically Contextualizing Large Language Models with Typed Holes[2024-arXiv]
-14. ProphetFuzz: Fully Automated Prediction and Fuzzing of High-Risk Option Combinations with Only Documentation via Large Language Model[2024-arXiv]
-15. Agent-DocEdit: Language-Instructed LLM Agent for Content-Rich Document Editing[2024-COLM]
-16. CodeGraph: Enhancing Graph Reasoning of LLMs with Code[2024-arXiv]
-17. Insights from Benchmarking Frontier Language Models on Web App Code Generation[2024-arXiv]
-18. GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding[2024-arXiv]
-19. DataSculpt: Crafting Data Landscapes for LLM Post-Training through Multi-objective Partitioning[2024-arXiv]
-20. Co-Learning: Code Learning for Multi-Agent Reinforcement Collaborative Framework with Conversational Natural Language Interfaces[2024-arXiv]
-21. Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs[2024-arXiv]
-22. Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model[2024-arXiv]
+
+1. Statically Contextualizing Large Language Models with Typed Holes[2024-arXiv]
+2. Agent-DocEdit: Language-Instructed LLM Agent for Content-Rich Document Editing[2024-COLM]
+3. CodeGraph: Enhancing Graph Reasoning of LLMs with Code[2024-arXiv]
+4. DataSculpt: Crafting Data Landscapes for LLM Post-Training through Multi-objective Partitioning[2024-arXiv]
+5. Co-Learning: Code Learning for Multi-Agent Reinforcement Collaborative Framework with Conversational Natural Language Interfaces[2024-arXiv]
+6. Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs[2024-arXiv]
+7. Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model[2024-arXiv]
 
 
 ## 📖 Contents
@@ -438,7 +428,18 @@ Automatic Detection of Five API Documentation Smells: Practitioners’ Perspecti
 5. Coffee: Boost Your Code LLMs by Fixing Bugs with Feedback [2023-arXiv]
 
 #### Code Generation
-
+🔥1. LLMs in Web Development: Evaluating LLM-Generated PHP Code Unveiling[2024-SAFECOMP]
+🔥2. Multi-Programming Language Ensemble for Code Generation in Large Language Mode[2024-arXiv]
+🔥3. Planning In Natural Language Improves LLM Search For Code Generation[2024-arXiv]
+🔥4. Large language model evaluation for high‐performance computing software development[2024-CCPE]
+🔥5. STREAM: Embodied Reasoning through Code Generation[2024-ICML]
+🔥6. Environment Curriculum Generation via Large Language Models[2024-CoRL]
+🔥7. Evaluation Metrics in LLM Code Generation[2024-TSD]
+🔥8. Benchmarking LLM Code Generation for Audio Programming with Visual Dataflow Languages[2024-arXiv]
+🔥9. An Empirical Study on Self-correcting Large Language Models for Data Science Code Generation[2024-arXiv]
+🔥10. NL2ProcessOps: Towards LLM-Guided Code Generation for Process Execution[2024-arXiv]
+🔥11. Balancing Security and Correctness in Code Generation: An Empirical Study on Commercial Large Language Models[2024-IEEE TETCI]
+🔥12. Insights from Benchmarking Frontier Language Models on Web App Code Generation[2024-arXiv]
 1. Towards Efficient Fine-tuning of Pre-trained Code Models: An Experimental Study and Beyond [2023-ISSTA]
 2. Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion [2024-ACL]
 3. An Empirical Study on the Usage of BERT Models for Code Completion [2021-MSR]
@@ -607,6 +608,7 @@ Automatic Detection of Five API Documentation Smells: Practitioners’ Perspecti
 
 #### Code Understanding
 
+🔥1. GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding[2024-arXiv]
 1. BinBert: Binary Code Understanding with a Fine-tunable and Execution-aware Transformer [2024-TDSC]
 2. SEMCODER: Training Code Language Models with Comprehensive Semantics [2024-arXiv]
 3. PAC Prediction Sets for Large Language Models of Code [2023-ICML]
@@ -809,6 +811,8 @@ ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generat
 
 #### Fuzzing
 
+🔥. FuzzCoder: Byte-level Fuzzing Test via Large Language Model[2024-arXiv]
+🔥. ProphetFuzz: Fully Automated Prediction and Fuzzing of High-Risk Option Combinations with Only Documentation via Large Language Model[2024-arXiv]
 1. SearchGEM5: Towards Reliable gem5 with Search Based Software Testing and Large Language Models [2023-SSBSE]  
 2. Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models [2023-ISSTA]  
 3. Large Language Models are Edge-Case Fuzzers: Testing Deep Learning Libraries via FuzzGPT [2023-ICSE]  
