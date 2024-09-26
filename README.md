@@ -25,7 +25,7 @@ Please feel free to contact us if you have any related references by Github issu
 ```
 ## 🔥🔥 New Papers
 1. 🔥Automated Program Repair for Introductory Programming Assignments[2024-TLT]
-2. 🔥Automated Program Repair for Introductory Programming Assignments[2024-TLT]
+2  🔥CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair[2024-arXiv-NVIDIA]
 3. 🔥Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs[2024-ISSTA]
 4. 🔥Automated program repair via conversation: Fixing 162 out of 337 bugs for $0.42 each using chatgpt[2024-ISSTA]
 5. 🔥Leveraging Large Language Model for Automatic Patch Correctness Assessment[2024-TSE]
