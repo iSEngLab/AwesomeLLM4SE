@@ -1504,3 +1504,4 @@ Flakify: a black-box, language model-based predictor for flaky tests [2022-TSE]
 # Related Surveys
 1. Software Testing with Large Language Models- Survey, Landscape, and Vision [2024-TSE]
 2. Large Language Models for Software Engineering: A Systematic Literature Review [2024-TOSEM]
+3. Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code [2024-TMLR][[Repo](https://github.com/codefuse-ai/Awesome-Code-LLM)]
