@@ -27,19 +27,23 @@ Please feel free to contact us if you have any related references by Github issu
 
 ## 🔥🔥 New Papers
 
-1. 🔥Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing[2024-arXiv]
-2. 🔥zsLLMCode: An Effective Approach for Functional Code Embedding via LLM with Zero-Shot Learning[2024-arXiv]
-3. 🔥Unlocking Memorization in Large Language Models with Dynamic Soft Prompting[2024-arXiv]
-4. 🔥PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)[2024-arXiv]
-5. 🔥Program Slicing in the Era of Large Language Models[2024-arXiv]
-6. 🔥PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM[2024-arXiv]
-7. Statically Contextualizing Large Language Models with Typed Holes[2024-arXiv]
-8. Agent-DocEdit: Language-Instructed LLM Agent for Content-Rich Document Editing[2024-COLM]
-9. CodeGraph: Enhancing Graph Reasoning of LLMs with Code[2024-arXiv]
-10. DataSculpt: Crafting Data Landscapes for LLM Post-Training through Multi-objective Partitioning[2024-arXiv]
-11. Co-Learning: Code Learning for Multi-Agent Reinforcement Collaborative Framework with Conversational Natural Language Interfaces[2024-arXiv]
-12. Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs[2024-arXiv]
-13. Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model[2024-arXiv]
+1. Using Learning from Answer Sets for Robust Question Answering with LLM[2024-LPNMR]
+2. Mitigating Gender Bias in Code Large Language Models via Model Editing[2024-arXiv]
+3. 🔥Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing[2024-arXiv]
+4. 🔥Checker Bug Detection and Repair in Deep Learning Libraries[2024-arXiv]
+5. 🔥Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study[2024-TSE]
+6. 🔥zsLLMCode: An Effective Approach for Functional Code Embedding via LLM with Zero-Shot Learning[2024-arXiv]
+7. 🔥Unlocking Memorization in Large Language Models with Dynamic Soft Prompting[2024-arXiv]
+8. 🔥PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)[2024-arXiv]
+9. 🔥Program Slicing in the Era of Large Language Models[2024-arXiv]
+10. 🔥PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM[2024-arXiv]
+11. Statically Contextualizing Large Language Models with Typed Holes[2024-arXiv]
+12. Agent-DocEdit: Language-Instructed LLM Agent for Content-Rich Document Editing[2024-COLM]
+13. CodeGraph: Enhancing Graph Reasoning of LLMs with Code[2024-arXiv]
+14. DataSculpt: Crafting Data Landscapes for LLM Post-Training through Multi-objective Partitioning[2024-arXiv]
+15. Co-Learning: Code Learning for Multi-Agent Reinforcement Collaborative Framework with Conversational Natural Language Interfaces[2024-arXiv]
+16. Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs[2024-arXiv]
+17. Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model[2024-arXiv]
 
 
 ## 📖 Contents
