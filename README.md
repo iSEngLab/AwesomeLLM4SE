@@ -470,7 +470,7 @@ Automatic Detection of Five API Documentation Smells: Practitioners’ Perspecti
 
 #### Code Completion
 
-1.🔥Generalized Adversarial Code-Suggestions: Exploiting Contexts of LLM-based Code-Completion[2024-arXiv]
+1. 🔥Generalized Adversarial Code-Suggestions: Exploiting Contexts of LLM-based Code-Completion[2024-arXiv]
 2. Towards Efficient Fine-tuning of Pre-trained Code Models: An Experimental Study and Beyond [2023-ISSTA]
 3. Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion [2024-ACL]
 4. An Empirical Study on the Usage of BERT Models for Code Completion [2021-MSR]
