@@ -1217,7 +1217,7 @@ Pre-trained Model-based Actionable Warning Identification: A Feasibility Study [
 
 #### Code Clone Detection
 
-1.🔥Assessing Code Clone Detection Capabilities of Large Language Models on Human and Ai-Generated Code: Zero-Shot and Fine-Tuning Approaches
+1. 🔥Assessing Code Clone Detection Capabilities of Large Language Models on Human and Ai-Generated Code: Zero-Shot and Fine-Tuning Approaches
 2. GPTCloneBench: A comprehensive benchmark of semantic clones and cross-language clones using GPT-3 model and SemanticCloneBench [2023-ICSME]
 3. Using a Nearest-Neighbour, BERT-Based Approach for Scalable Clone Detection [2022-ICSME]
 4. Towards Understanding the Capability of Large Language Models on Code Clone Detection: A Survey [2023-arXiv]
