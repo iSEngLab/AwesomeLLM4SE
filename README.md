@@ -871,17 +871,16 @@ Pre-trained Model-based Actionable Warning Identification: A Feasibility Study [
 #### Assertion Generation
 
 1. Exploring Automated Assertion Generation via Large Language Models [2024-TOSEM]
-2. AssertionBench: A Benchmark to Evaluate Large-Language Models for Assertion Generation [2024-arXiv]
-3. TOGA: A Neural Method for Test Oracle Generation [2022-ICSE]  
-4. Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions? [2024-FSE]  
-5. Beyond Code Generation: Assessing Code LLM Maturity with Postconditions [2024-arXiv]  
-6. An Empirical Study on Focal Methods in Deep-Learning-Based Approaches for Assertion Generation [2024-ICSE]  
-7. TOGLL: Correct and Strong Test Oracle Generation with LLMs [2024-arXiv]  
-8. ChIRAAG: ChatGPT Informed Rapid and Automated Assertion Generation [2024-arXiv]  
-9. Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning [2023-ICSE]  
-10. AssertionBench: A Benchmark to Evaluate Large-Language Models for Assertion Generation [2024-NeurIPS]  
-11. Generating Accurate Assert Statements for Unit Test Cases using Pretrained Transformers [2022-AST]  
-12. Chat-like Asserts Prediction with the Support of Large Language Model [2024-arXiv]  
+2. TOGA: A Neural Method for Test Oracle Generation [2022-ICSE]
+3. Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions? [2024-FSE]
+4. Beyond Code Generation: Assessing Code LLM Maturity with Postconditions [2024-arXiv]
+5. An Empirical Study on Focal Methods in Deep-Learning-Based Approaches for Assertion Generation [2024-ICSE]
+6. TOGLL: Correct and Strong Test Oracle Generation with LLMs [2024-arXiv]
+7. ChIRAAG: ChatGPT Informed Rapid and Automated Assertion Generation [2024-arXiv]
+8. Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning [2023-ICSE]
+9. AssertionBench: A Benchmark to Evaluate Large-Language Models for Assertion Generation [2024-NeurIPS]
+10. Generating Accurate Assert Statements for Unit Test Cases using Pretrained Transformers [2022-AST]
+11. Chat-like Asserts Prediction with the Support of Large Language Model [2024-arXiv]  
 
 #### Binary Code Similarity Detection
 
