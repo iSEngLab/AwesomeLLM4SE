@@ -33,7 +33,7 @@ Please feel free to contact us if you have any related references by Github issu
 3. 🔥Fuzzing Robotic Software Using HPC [2024-arXiv]
 4. 🔥InfiBench: Evaluating the Question-Answering Capabilities of Code Large Language Models [2024-NeurIPS]
 5. 🔥Transforming the field of Vulnerability Prediction: Are Large Language Models the key?
-6. 🔥IaC-Eval: A Code Generation Benchmark for Cloud Infrastructure-as-Code Programs
+6. 🔥IaC-Eval: A Code Generation Benchmark for Cloud Infrastructure-as-Code Programs [[2024-NeurIPS]](https://openreview.net/forum?id=7TCK0aBL1C)
 7. 🔥A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation  [2024-arXiv]
 8. 🔥Towards the Integration of Large Language Models and Automatic Assessment Tools: Enhancing Student Support in Programming Assignments [2024-[Koli Calling](https://www.kolicalling.fi/)]
 9. 🔥Semantic Error Detection in Code Translation Using Knowledge-Driven Static Analysis with AI Chain
@@ -1611,7 +1611,7 @@ Flakify: a black-box, language model-based predictor for flaky tests [2022-TSE]
 ### 📊Benchmark
 
 1. 🔥InfiBench: Evaluating the Question-Answering Capabilities of Code Large Language Models [2024-NeurIPS]
-2. 🔥IaC-Eval: A Code Generation Benchmark for Cloud Infrastructure-as-Code Programs
+2. 🔥IaC-Eval: A Code Generation Benchmark for Cloud Infrastructure-as-Code Programs [[2024-NeurIPS]](https://openreview.net/forum?id=7TCK0aBL1C)
 3. MBPP: Program Synthesis with Large Language Models [2021-arXiv]
 4. MultiPL-E: a scalable and polyglot approach to benchmarking neural code generation [2023-TSE]
 5. HumanEval: Evaluating Large Language Models Trained on Code [2021-arXiv]
