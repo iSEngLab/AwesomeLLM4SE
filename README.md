@@ -18,11 +18,14 @@ Please feel free to contact us if you have any related references by Github issu
 ## 👏 Citation
 
 ```bib
-@article{zhang2023survey,
-  title={A Survey on Large Language Models for Software Engineering},
-  author={Zhang, Quanjun and Fang, Chunrong and Xie, Yang and Zhang, Yaxin and Yang, Yun and Sun, Weisong and Yu, Shengcheng and Chen, Zhenyu},
-  journal={arXiv preprint arXiv:2312.15223},
-  year={2023}
+@article{zhang2026survey,
+  title = {A Survey on Large Language Models for Software Engineering},
+  author = {Zhang, Quanjun and Fang, Chunrong and Xie, Yang and Zhang, Yaxin and Yu, Shengcheng and Sun, Weisong and Yang, Yun and Chen, Zhenyu},
+  year = 2026,
+  journal = {Science China Information Sciences},
+  volume = {69},
+  number = {4},
+  pages = {141102}
 }
 ```
 
